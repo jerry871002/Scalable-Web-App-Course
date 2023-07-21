@@ -1,9 +1,6 @@
 [submodule "project-1"]
 	path = project-1
 	url = https://github.com/jerry871002/bit.ly-like-apps.git
-[submodule "jamstack-like-app"]
-	path = jamstack-like-app
-	url = https://github.com/jerry871002/jamstack-like-app.git
 [submodule "project-2"]
 	path = project-2
 	url = https://github.com/jerry871002/jamstack-like-app.git
